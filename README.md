@@ -1,3 +1,4 @@
-![download](https://github.com/user-attachments/assets/5997cbf9-206d-4c0a-be0d-ef184492240a)
+![image](https://github.com/user-attachments/assets/c2c7ccb9-dbc0-4daa-b5f6-f3133e07bc0e)
+
 
 *Jordanian-car-plate-recognation-using-EasyOCR*.
